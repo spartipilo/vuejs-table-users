@@ -1,0 +1,17 @@
+table th {
+  background-color: #ff755d !important;
+  color: #fff !important;
+}
+hr {
+  border: none;
+}
+.input__group {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+}
+
+.input__group input {
+  padding: 5px 0;
+  margin: 5px 0;
+}
